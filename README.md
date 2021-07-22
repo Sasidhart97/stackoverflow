@@ -9,7 +9,10 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*. However adding the list of libraries for your referenece:
+pandas
+numpy
+sklearn
 
 ## Project Motivation<a name="motivation"></a>
 
